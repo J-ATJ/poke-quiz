@@ -1,0 +1,15 @@
+.answer{
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    width: 45%;
+    max-width: 480px;
+    margin: 10px 2%;
+    font-size: 15px;
+    padding: 10px 0;
+    cursor: pointer;
+}.answer:hover{
+    background-color: #ffffff20;
+}
+.rojo{
+    background-color: #ff000020;
+}

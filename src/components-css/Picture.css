@@ -1,0 +1,21 @@
+.picture{
+    border-radius: 10%;
+    width: 60%;
+    max-width: 300px;
+    margin: 0 auto;  
+}
+.image{
+    width: 90%;
+    animation: appear 2.5s ease-in;
+}
+@keyframes appear {
+    0% { 
+      opacity:0;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
